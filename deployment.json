@@ -1,0 +1,29 @@
+{
+  "projectId": "prj_QnKzRxtAmiZ9EEaNJuxPgATe5qAZ",
+  "teamId": "team_64IDAvx3sgtTRCQpQavfF3cG",
+  "deploymentId": "dpl_AMPrZP9PoskA8cfc6CED756QksT4",
+  "deploymentCommit": "da18a28399b11e894d5a49fb2ca6f1f79c5013ad",
+  "url": "https://fieldbrief-devpost-2026.vercel.app",
+  "target": "production",
+  "hostingReady": true,
+  "productionReady": false,
+  "databaseProvisioned": false,
+  "liveIntegrationVerified": false,
+  "submitted": false,
+  "health": {
+    "url": "https://fieldbrief-devpost-2026.vercel.app/api/health",
+    "status": 200,
+    "body": {
+      "application": "FieldBrief",
+      "status": "configuration_required",
+      "missing": [
+        "DATABASE_URL",
+        "NEBIUS_API_KEY",
+        "NEBIUS_NVIDIA_MODEL"
+      ],
+      "version": "1.0.0"
+    },
+    "checkedAt": "2026-10-27T15:09:24.698Z"
+  },
+  "lastUpdated": "2026-10-27T15:09:24.698Z"
+}

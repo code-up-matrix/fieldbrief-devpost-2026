@@ -22,7 +22,7 @@ This is controlled hackathon workspace access. Consumer-account recovery, genera
 
 Public MIT source, working demo and judging access; sponsor technology must run in the product. Verify personal/geographic eligibility.
 
-Source is prepared and independently verified as recorded in verification.json when present. Cloud deployment, live sponsor proof, video and final submission are still pending. Repository: https://github.com/code-up-matrix/fieldbrief-devpost-2026.
+Source is prepared and independently verified as recorded in verification.json when present. Vercel hosting is deployed at https://fieldbrief-devpost-2026.vercel.app. Database provisioning, any required sponsor proof, video and final submission are still pending. Hosting does not establish production readiness. Repository: https://github.com/code-up-matrix/fieldbrief-devpost-2026.
 
 ## Attribution
 
